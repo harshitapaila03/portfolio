@@ -32,10 +32,12 @@ Welcome to my portfolio! I'm Harshita Paila, currently pursuing my Master's in B
 ***
 
 # Tableau
+
 | Project Link | Project Description |
 |---|---|
 | [Credit Card Complaints](https://github.com/harshitapaila03/Credit-Card) | The dashboard provides a comprehensive overview of credit card complaints, tracking metrics such as total complaints, timely responses, and cases in progress. It visualizes trends over time, highlights top complaint issues, and maps complaints geographically across the United States. Key insights include the volume of complaints, response efficiency, and the nature of consumer issues, aiding in identifying areas for service improvement and resource allocation. |
 | [Electric Vehicle Data Analysis](https://github.com/harshitapaila03/Electric-Vehicle-Data-Analysis/blob/main/README.md) |  The project visualizes the distribution and characteristics of electric vehicles (EVs) across various states in the US. It provides insights into the total number of vehicles, average electric range, and distribution by model year, brand, and model. The dashboard also categorizes EVs by their eligibility for Clean Alternative Fuel Vehicle (CAFV) status and visualizes geographic distribution using interactive maps. This analysis helps in understanding trends in EV adoption and highlights key areas for policy and infrastructure development. |
+
 ***
 
 
