@@ -3,6 +3,14 @@
 Welcome to my portfolio! I'm Harshita Paila, currently pursuing my Master's in Business Analytics and Artificial Intelligence at the University of Texas at Dallas. With a passion for data science, analytics and machine learning,  I have explored various projects in these areas. Below, you will find summaries of my projects, demonstrating my hands-on experience in the data field. 
 
 
+# EduBot: Your Knowledgeable Companion for Science and History
+
+| Project Link | Tools and Areas of Analysis | Project Description | 
+|---|---|---|
+| [EduBot: Your Knowledgeable Companion for Science and History](https://github.com/harshitapaila03/EduBot) | Python, Streamlit, spaCy, Transformers, Wikipedia API, SPARQLWrapper, BART| EduBot answers queries about historical events and scientific concepts by integrating structured data from WikiData and unstructured content from Wikipedia. It uses advanced NLP techniques, including summarization and named entity recognition, to deliver concise and accurate responses. Designed for students, researchers, educators, and knowledge seekers, EduBot facilitates real-time interaction through a user-friendly Streamlit interface. |
+
+
+***
 
 # Recession Data Analysis
 
