@@ -12,6 +12,15 @@ Welcome to my portfolio! I'm Harshita Paila, currently pursuing my Master's in B
 
 ***
 
+# Image Classification Using Neural Networks: The CIFAR - 10 Dataset
+
+| Project Link | Tools and Areas of Analysis | Project Description | 
+|---|---|---|
+| [Image Classification Using Neural Networks: The CIFAR - 10 Dataset](https://github.com/harshitapaila03/image-classification-cifardataset) | Python, TensorFlow, Keras, Matplotlib, NumPy  | This project applies neural networks to classify images from the CIFAR-10 dataset into 10 distinct classes. It involves data preprocessing, training a convolutional neural network, and evaluating model performance through visualizations. |
+
+
+***
+
 # Recession Data Analysis
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
