@@ -1,6 +1,6 @@
 #  Harshita Paila's Portfolio
 
-Welcome to my portfolio! I'm Harshita Paila, currently pursuing my Master's in Business Analytics and Artificial Intelligence at the University of Texas at Dallas. With a passion for data science, analytics and machine learning,  I have explored various projects in these areas. Below, you will find summaries of my projects, demonstrating my hands-on experience in the data field. 
+Welcome to my portfolio! I'm Harshita Paila, a graduate student, who majored in Business Analytics and Artificial Intelligence at the University of Texas at Dallas. With a passion for data science, analytics and machine learning,  I have explored various projects in these areas. Below, you will find summaries of my projects, demonstrating my hands-on experience in the data field. 
 
 
 # EduBot: Your Knowledgeable Companion for Science and History
