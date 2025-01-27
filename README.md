@@ -1,6 +1,6 @@
 #  Harshita Paila's Portfolio
 
-Welcome to my portfolio! I'm Harshita Paila, a graduate student, who majored in Business Analytics and Artificial Intelligence at the University of Texas at Dallas. With a passion for data science, analytics and machine learning,  I have explored various projects in these areas. Below, you will find summaries of my projects, demonstrating my hands-on experience in the data field. 
+Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree in Business Analytics and Artificial Intelligence at the University of Texas at Dallas. With a passion for data science, analytics and machine learning,  I have explored various projects in these areas. Below, you will find summaries of my projects, demonstrating my hands-on experience in the data field. 
 
 
 # EduBot: Your Knowledgeable Companion for Science and History
@@ -47,14 +47,25 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, who majored in 
 
 
 ***
+# Data Engineering 
 
+
+| Project Link | Tools and Areas of Analysis | Project Description |
+|---|---|---|
+| [Real Estate Data Pipeline and Analyticsl](https://github.com/harshitapaila03/Data_Engineering_RealEstate) |Python, SQL, Apache Spark, AWS (S3, Redshift), ETL Pipelines, Data Warehousing | This project focuses on building scalable and efficient data engineering pipelines for real estate data. It involves extracting, transforming, and loading (ETL) real estate datasets into a cloud-based data warehouse (AWS Redshift) for analysis. The project demonstrates the integration of big data tools and frameworks to process large datasets and generate insights for real estate trends and analytics. | 
+
+| Project Link | Tools and Areas of Analysis | Project Description |
+|---|---|---|
+| [ETL Data Engineering Pipeline with Cloud Integrationl](https://github.com/harshitapaila03/Data_Engineering_Pipeline) |Python, Apache Airflow, AWS (S3, Redshift), SQL, ETL Pipelines, Data Warehousing | This project involves designing and implementing a robust data pipeline to extract, transform, and load (ETL) data into a cloud-based data warehouse. Using tools like Apache Airflow for workflow orchestration and AWS services (S3 and Redshift) for scalable storage and processing, the project enables efficient handling of large-scale datasets. The pipeline supports automation, scalability, and ease of data analysis for various business use cases. | 
+
+
+
+
+***
 # Tableau
 
 | Project Link | Project Description |
 |---|---|
 | [Credit Card Complaints](https://github.com/harshitapaila03/Credit-Card) | The dashboard provides a comprehensive overview of credit card complaints, tracking metrics such as total complaints, timely responses, and cases in progress. It visualizes trends over time, highlights top complaint issues, and maps complaints geographically across the United States. Key insights include the volume of complaints, response efficiency, and the nature of consumer issues, aiding in identifying areas for service improvement and resource allocation. |
 | [Electric Vehicle Data Analysis](https://github.com/harshitapaila03/Electric-Vehicle-Data-Analysis/blob/main/README.md) |  The project visualizes the distribution and characteristics of electric vehicles (EVs) across various states in the US. It provides insights into the total number of vehicles, average electric range, and distribution by model year, brand, and model. The dashboard also categorizes EVs by their eligibility for Clean Alternative Fuel Vehicle (CAFV) status and visualizes geographic distribution using interactive maps. This analysis helps in understanding trends in EV adoption and highlights key areas for policy and infrastructure development. |
-
-***
-
 
