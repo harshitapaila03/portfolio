@@ -46,11 +46,23 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 | [Automobile Data Analytics: Trends, Sales & Pricing](https://github.com/harshitapaila03/automobile-data-analysis?tab=readme-ov-file) | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Regression Analysis, Data Visualization | This project analyzes automobile data to uncover trends in vehicle performance, pricing, and specifications. It applies exploratory data analysis, feature engineering, and machine learning models to predict automobile prices and identify key factors influencing the market. The insights from this analysis help in understanding consumer preferences and industry trends. |
 
 
-# Image Classification Using Neural Networks: The CIFAR - 10 Dataset
+***
+
+# Bumble Product Discovery
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
 |---|---|---|
-| [Image Classification Using Neural Networks: The CIFAR - 10 Dataset](https://github.com/harshitapaila03/image-classification-cifardataset) | Python, TensorFlow, Keras, Matplotlib, NumPy  | This project applies neural networks to classify images from the CIFAR-10 dataset into 10 distinct classes. It involves data preprocessing, training a convolutional neural network, and evaluating model performance through visualizations. |
+| [AI-Powered Product Discovery: Driving User Engagement at Bumble](https://github.com/harshitapaila03/bumble-product-discovery) | Python, Pandas, NumPy, Matplotlib, Seaborn, NLP, Sentiment Analysis, User Behavior Analysis | This project analyzes Bumble's product features and user behavior to uncover trends and preferences. It applies natural language processing (NLP) for sentiment analysis, visualizes key user engagement metrics, and provides data-driven insights to enhance user experience and product recommendations. The goal is to help optimize Bumble’s product strategies using analytical approaches. |
+
+
+
+***
+
+# MakeMyTrip Product Discovery
+
+| Project Link | Tools and Areas of Analysis | Project Description | 
+|---|---|---|
+| [MakeMyTrip Product Discovery](https://github.com/harshitapaila03/makemytrip-product-discovery) | Python, Pandas, NumPy, Matplotlib, Seaborn, NLP, Sentiment Analysis, User Behavior Analysis | This project analyzes MakeMyTrip's product features and user interactions to derive insights into customer preferences and travel trends. It utilizes natural language processing (NLP) for sentiment analysis, visualizes key user engagement metrics, and identifies patterns in booking behavior. The insights help optimize MakeMyTrip’s product strategies and enhance user experience through data-driven recommendations. |
 
 
 ***
