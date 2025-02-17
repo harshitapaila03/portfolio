@@ -39,6 +39,13 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 
 ***
 
+# Automobile Data Analytics: Trends, Sales & Pricing
+
+| Project Link | Tools and Areas of Analysis | Project Description | 
+|---|---|---|
+| [Automobile Data Analytics: Trends, Sales & Pricing](https://github.com/harshitapaila03/automobile-data-analysis?tab=readme-ov-file) | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Regression Analysis, Data Visualization | This project analyzes automobile data to uncover trends in vehicle performance, pricing, and specifications. It applies exploratory data analysis, feature engineering, and machine learning models to predict automobile prices and identify key factors influencing the market. The insights from this analysis help in understanding consumer preferences and industry trends. |
+
+
 # Image Classification Using Neural Networks: The CIFAR - 10 Dataset
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
