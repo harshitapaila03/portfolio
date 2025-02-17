@@ -48,7 +48,7 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 
 ***
 
-# Bumble Product Discovery
+# AI-Powered Product Discovery: Driving User Engagement at Bumble
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
 |---|---|---|
@@ -58,7 +58,7 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 
 ***
 
-# MakeMyTrip Product Discovery
+# MakeMyTrip Business & Product Strategy Analysis
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
 |---|---|---|
