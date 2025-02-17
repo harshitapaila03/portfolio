@@ -12,6 +12,33 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 
 ***
 
+# Financial Customer Segmentation for Credit Scoring
+
+| Project Link | Tools and Areas of Analysis | Project Description | 
+|---|---|---|
+| [Financial Customer Segmentation for Credit Scoring](https://github.com/harshitapaila03/creditscoring-and-segmentation) | Python, Scikit-Learn, Pandas, Matplotlib, K-Means Clustering, Logistic Regression | This project focuses on credit scoring and customer segmentation using machine learning techniques. It applies clustering methods to segment customers based on their financial behaviors and uses predictive modeling for credit risk assessment. The project aims to assist financial institutions in making data-driven lending decisions by evaluating creditworthiness efficiently. |
+
+
+***
+
+# Netflix Data Analysis: Content Strategy & Audience Trends
+
+| Project Link | Tools and Areas of Analysis | Project Description | 
+|---|---|---|
+| [Netflix Data Analysis: Content Strategy & Audience Trends](https://github.com/harshitapaila03/netflix-content-strategy) | Python, Pandas, Matplotlib, Seaborn, NLP, Sentiment Analysis, Clustering | This project analyzes Netflix's content strategy using data-driven insights. It involves exploring content trends, performing sentiment analysis on user reviews, and applying clustering techniques to identify audience preferences. The goal is to help optimize content recommendations and improve strategic decision-making for Netflix’s content acquisition. |
+
+
+***
+
+# Smartwatch Fitness Data Analysis: Insights into Daily Activity
+
+| Project Link | Tools and Areas of Analysis | Project Description | 
+|---|---|---|
+| [Smartwatch Fitness Data Analysis: Insights into Daily Activity](https://github.com/harshitapaila03/fitness-data-analysis) | Python, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, Time Series Analysis | This project explores fitness data to identify patterns and trends in physical activity. It applies data analysis and visualization techniques to extract meaningful insights, helping users track their fitness progress. Additionally, machine learning models are used to predict future activity trends and optimize fitness plans. |
+
+
+***
+
 # Image Classification Using Neural Networks: The CIFAR - 10 Dataset
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
