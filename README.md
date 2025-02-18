@@ -52,7 +52,7 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
 |---|---|---|
-| [AI-Powered Product Discovery: Driving User Engagement at Bumble](https://github.com/harshitapaila03/bumble-product-discovery) | Python, Pandas, NumPy, Matplotlib, Seaborn, NLP, Sentiment Analysis, User Behavior Analysis | This project analyzes Bumble's product features and user behavior to uncover trends and preferences. It applies natural language processing (NLP) for sentiment analysis, visualizes key user engagement metrics, and provides data-driven insights to enhance user experience and product recommendations. The goal is to help optimize Bumble’s product strategies using analytical approaches. |
+| [AI-Powered Product Discovery: Driving User Engagement at Bumble](https://github.com/harshitapaila03/bumble-product-discovery) | Business Strategy, User Research, Data Analysis, A/B Testing, Product Ideation, Consumer Insights | This project focuses on improving user engagement and increasing ARPU (Average Revenue Per User) for Bumble** by analyzing user behavior and pain points through surveys, interviews, and data-driven insights. It explores the challenges faced by users, particularly around conversation engagement, and proposes solutions like BeeChat, SuperBee, and BeeQuiz** to enhance user interactions, premium feature adoption, and overall product experience. The research identifies key conversion and retention metrics to evaluate success and ensure business scalability. |
 
 
 
@@ -62,7 +62,8 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
 |---|---|---|
-| [MakeMyTrip Product Discovery](https://github.com/harshitapaila03/makemytrip-product-discovery) | Python, Pandas, NumPy, Matplotlib, Seaborn, NLP, Sentiment Analysis, User Behavior Analysis | This project analyzes MakeMyTrip's product features and user interactions to derive insights into customer preferences and travel trends. It utilizes natural language processing (NLP) for sentiment analysis, visualizes key user engagement metrics, and identifies patterns in booking behavior. The insights help optimize MakeMyTrip’s product strategies and enhance user experience through data-driven recommendations. |
+| [MakeMyTrip Business & Product Strategy Analysis](https://github.com/harshitapaila03/makemytrip-product-discovery) | Business Strategy, User Research, Market Analysis, AI-Powered Search, Personalization, Product Ideation, Customer Insights | This project explores MakeMyTrip's product discovery and innovation strategies to enhance user experience and streamline travel planning. It identifies key pain points through user research, surveys, and market analysis, leading to the development of AI-driven solutions such as TripHive, Safar (Search with AI), and TripTech AI. These solutions aim to provide personalized travel recommendations, efficient itinerary planning, and seamless booking experiences, ultimately increasing customer engagement, retention, and revenue growth. The project evaluates business impact through key conversion, retention, and user interaction metrics to measure success. |
+
 
 
 ***
