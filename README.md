@@ -52,7 +52,7 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 
 | Project Link | Tools and Areas of Analysis | Project Description | 
 |---|---|---|
-| [AI-Powered Product Discovery: Driving User Engagement at Bumble](https://github.com/harshitapaila03/bumble-product-discovery) | Business Strategy, User Research, Data Analysis, A/B Testing, Product Ideation, Consumer Insights | This project focuses on improving user engagement and increasing ARPU (Average Revenue Per User) for Bumble** by analyzing user behavior and pain points through surveys, interviews, and data-driven insights. It explores the challenges faced by users, particularly around conversation engagement, and proposes solutions like BeeChat, SuperBee, and BeeQuiz** to enhance user interactions, premium feature adoption, and overall product experience. The research identifies key conversion and retention metrics to evaluate success and ensure business scalability. |
+| [AI-Powered Product Discovery: Driving User Engagement at Bumble](https://github.com/harshitapaila03/bumble-product-discovery) | Business Strategy, User Research, Data Analysis, A/B Testing, Product Ideation, Consumer Insights | This project focuses on improving user engagement and increasing ARPU (Average Revenue Per User) for Bumble by analyzing user behavior and pain points through surveys, interviews, and data-driven insights. It explores the challenges faced by users, particularly around conversation engagement, and proposes solutions like BeeChat, SuperBee, and BeeQuiz** to enhance user interactions, premium feature adoption, and overall product experience. The research identifies key conversion and retention metrics to evaluate success and ensure business scalability. |
 
 
 
