@@ -99,11 +99,11 @@ Welcome to my portfolio! I'm Harshita Paila, a graduate student, with a degree i
 
 | Project Link | Tools and Areas of Analysis | Project Description |
 |---|---|---|
-| [Real Estate Data Pipeline and Analyticsl](https://github.com/harshitapaila03/Data_Engineering_RealEstate) |Python, SQL, Apache Spark, AWS (S3, Redshift), ETL Pipelines, Data Warehousing | This project focuses on building scalable and efficient data engineering pipelines for real estate data. It involves extracting, transforming, and loading (ETL) real estate datasets into a cloud-based data warehouse (AWS Redshift) for analysis. The project demonstrates the integration of big data tools and frameworks to process large datasets and generate insights for real estate trends and analytics. | 
+| [Real Estate Data Pipeline and Analytics](https://github.com/harshitapaila03/Data_Engineering_RealEstate) |Python, SQL, Apache Spark, AWS (S3, Redshift), ETL Pipelines, Data Warehousing | This project focuses on building scalable and efficient data engineering pipelines for real estate data. It involves extracting, transforming, and loading (ETL) real estate datasets into a cloud-based data warehouse (AWS Redshift) for analysis. The project demonstrates the integration of big data tools and frameworks to process large datasets and generate insights for real estate trends and analytics. | 
 
 | Project Link | Tools and Areas of Analysis | Project Description |
 |---|---|---|
-| [ETL Data Engineering Pipeline with Cloud Integrationl](https://github.com/harshitapaila03/Data_Engineering_Pipeline) |Python, Apache Airflow, AWS (S3, Redshift), SQL, ETL Pipelines, Data Warehousing | This project involves designing and implementing a robust data pipeline to extract, transform, and load (ETL) data into a cloud-based data warehouse. Using tools like Apache Airflow for workflow orchestration and AWS services (S3 and Redshift) for scalable storage and processing, the project enables efficient handling of large-scale datasets. The pipeline supports automation, scalability, and ease of data analysis for various business use cases. | 
+| [ETL Data Engineering Pipeline with Cloud Integration](https://github.com/harshitapaila03/Data_Engineering_Pipeline) |Python, Apache Airflow, AWS (S3, Redshift), SQL, ETL Pipelines, Data Warehousing | This project involves designing and implementing a robust data pipeline to extract, transform, and load (ETL) data into a cloud-based data warehouse. Using tools like Apache Airflow for workflow orchestration and AWS services (S3 and Redshift) for scalable storage and processing, the project enables efficient handling of large-scale datasets. The pipeline supports automation, scalability, and ease of data analysis for various business use cases. | 
 
 
 
